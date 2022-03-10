@@ -2,6 +2,8 @@
 
 * [紹介](introduction.md)
   * [例](introduction.md#例)
+     * [例](introduction.md#例) 
+         * [例](introduction.md#例) 
 * [フォーマティング](formatting.md)
 * [コメント](commentary.md)
 * [名称](names.md)
